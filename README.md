@@ -1,3 +1,5 @@
-Hello, I'm RynoSvapos (but i don't actually vape, my name is a long story) and I enjoy writing code for fun or work.
-I really like making games, but i know stuff about web development.
-You can follow me on https://www.twitch.tv/rynoooo, I'll bring some tech content too.
+## My profile - レオナルド・インポートーナ
+🌀 Hi, I'm Leonardo, I like coding anything such as games, websites and I'm learning about creating some fancy hardware stuff.
+
+
+📡 Sometimes I stream here, have a look if you want https://www.twitch.tv/rynoooo (IT)
